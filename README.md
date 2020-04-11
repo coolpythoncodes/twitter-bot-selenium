@@ -20,5 +20,7 @@ You will need a web driver installed for FireFox
 2) on terminal, write the following
 
     tar -xvzf geckodriver*
+    
     chmod +x geckodriver
+    
     sudo cp geckodriver /usr/local/bin/

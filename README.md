@@ -16,8 +16,9 @@ You will need a web driver installed for FireFox
 
 # Procedure for installing a webdriver for FireFox
 
-1) Download the latest version of geckodriver for linux via https://github.com/mozilla/geckodriver/releases/tag/v0.26.0
-2) on terminal, write the following
+Download the latest version of geckodriver for linux via https://github.com/mozilla/geckodriver/releases/tag/v0.26.0
+
+on terminal, write the following
 
     tar -xvzf geckodriver*
     

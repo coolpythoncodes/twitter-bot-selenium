@@ -40,4 +40,7 @@ In the directory you downloaded the chrome web driver, write the following on te
     sudo chown root:root /usr/bin/chromedriver
     sudo chmod +x /usr/bin/chromedriver
 
+Creat a config.py file that will contain your twitter login details.
+
+use 'username' and 'password' as variable for twitter login details
 
